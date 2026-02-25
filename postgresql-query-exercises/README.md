@@ -1,16 +1,16 @@
 # PostgreSQL Query Exercises
 
-This project contains SQL practice queries executed using PostgreSQL in DBeaver.
+This project contains SQL practice queries executed using PostgreSQL using a sample database.
 
-The queries cover basic to intermediate concepts such as:
-
+## Concepts Covered
 - SELECT
 - WHERE filtering
-- LIKE operator
-- IN clause
-- Basic conditions
-- Simple data extraction
+- LIKE
+- IN
+- Aggregation (COUNT, SUM)
+- GROUP BY
+- JOIN
 
-## Tools Used
+## Tools
 - PostgreSQL
 - DBeaver
